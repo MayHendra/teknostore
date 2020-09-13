@@ -9,7 +9,7 @@ export default function Home() {
     return (
         <div>
             <Navbar searchVisible="false" />
-            <main className="container mx-auto mt-8 md:mt-15 px-6">
+            <main className="container mx-auto mt-8 md:mt-15 px-6 mb-10">
                 <div className="flex flex-col-reverse items-center md:flex-row md:justify-around">
                     <div className="flex flex-col md:w-2/5 md:ml-24">
                         <div className="mt-8">

@@ -46,7 +46,7 @@ export default function Navbar({ searchVisible }) {
                 </div>
                 {
                     active === true ?
-                        <div className="flex flex-col items-end mt-3 md:hidden">
+                        <div className="flex flex-col items-end mt-8 md:hidden">
                             {/* <div className="flex flex-col md:flex-row">
                                 <a href="#" className="block py-4 font-medium text-gray-800 hover:text-gray-900">Tentang</a>
                                 <a href="#" className="block py-4 font-medium text-gray-800 hover:text-gray-900">Beranda</a>
